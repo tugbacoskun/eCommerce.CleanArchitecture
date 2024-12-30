@@ -1,2 +1,7 @@
 # eCommerce.CleanArchitecture
-Mongodb,Mediatr Pattern,Clean Architecture,Automapper,Repository Pattern,NoSQL, .NET 9
+Mongodb
+Mediatr Pattern 
+Automapper
+Repository Pattern
+NoSQL
+.NET 9
